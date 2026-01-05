@@ -1,0 +1,199 @@
+{"input":"I want to know the pricing for your enterprise plan","output":"SALES_TEAM"}
+{"input":"Can you share details about bulk licensing discounts","output":"SALES_TEAM"}
+{"input":"I am interested in a product demo","output":"SALES_TEAM"}
+{"input":"What plans do you offer for startups","output":"SALES_TEAM"}
+{"input":"Can someone from sales contact me","output":"SALES_TEAM"}
+{"input":"Do you have annual subscription offers","output":"SALES_TEAM"}
+{"input":"I want to upgrade to the premium plan","output":"SALES_TEAM"}
+{"input":"What is included in the pro package","output":"SALES_TEAM"}
+{"input":"Is there a free trial available","output":"SALES_TEAM"}
+{"input":"Can I get a quotation for 50 users","output":"SALES_TEAM"}
+{"input":"Tell me the cost difference between basic and enterprise","output":"SALES_TEAM"}
+{"input":"Do you support custom pricing","output":"SALES_TEAM"}
+{"input":"I want to buy your product for my company","output":"SALES_TEAM"}
+{"input":"Are there any ongoing promotions","output":"SALES_TEAM"}
+{"input":"How much does the monthly plan cost","output":"SALES_TEAM"}
+{"input":"Can you explain your pricing model","output":"SALES_TEAM"}
+{"input":"I want to speak with sales regarding partnerships","output":"SALES_TEAM"}
+{"input":"Is there a discount for students","output":"SALES_TEAM"}
+{"input":"What is the refund policy before purchasing","output":"SALES_TEAM"}
+{"input":"Help me choose the right plan","output":"SALES_TEAM"}
+{"input":"My payment went through but the subscription is not active","output":"SUPPORT_TEAM"}
+{"input":"I forgot my password and cannot log in","output":"SUPPORT_TEAM"}
+{"input":"The invoice amount looks incorrect","output":"SUPPORT_TEAM"}
+{"input":"My account got locked suddenly","output":"SUPPORT_TEAM"}
+{"input":"I am unable to reset my password","output":"SUPPORT_TEAM"}
+{"input":"The app logged me out automatically","output":"SUPPORT_TEAM"}
+{"input":"I was charged twice for the same plan","output":"SUPPORT_TEAM"}
+{"input":"How do I cancel my subscription","output":"SUPPORT_TEAM"}
+{"input":"My refund is still not processed","output":"SUPPORT_TEAM"}
+{"input":"I am unable to update my billing details","output":"SUPPORT_TEAM"}
+{"input":"The confirmation email was not received","output":"SUPPORT_TEAM"}
+{"input":"My account shows inactive even after payment","output":"SUPPORT_TEAM"}
+{"input":"How can I change my registered email","output":"SUPPORT_TEAM"}
+{"input":"I cannot access my account anymore","output":"SUPPORT_TEAM"}
+{"input":"My subscription expired earlier than expected","output":"SUPPORT_TEAM"}
+{"input":"The payment page is stuck","output":"SUPPORT_TEAM"}
+{"input":"I want to reactivate my account","output":"SUPPORT_TEAM"}
+{"input":"Why is my account suspended","output":"SUPPORT_TEAM"}
+{"input":"I need help updating my profile information","output":"SUPPORT_TEAM"}
+{"input":"The receipt download is not working","output":"SUPPORT_TEAM"}
+{"input":"The application crashes when I upload a file","output":"TECH_TEAM"}
+{"input":"API responses are very slow","output":"TECH_TEAM"}
+{"input":"I am getting a 500 error from the backend","output":"TECH_TEAM"}
+{"input":"The dashboard does not load on mobile","output":"TECH_TEAM"}
+{"input":"I see a blank screen after login","output":"TECH_TEAM"}
+{"input":"How do I integrate your API","output":"TECH_TEAM"}
+{"input":"Webhook events are not being triggered","output":"TECH_TEAM"}
+{"input":"The SDK installation fails","output":"TECH_TEAM"}
+{"input":"I am facing CORS issues","output":"TECH_TEAM"}
+{"input":"Database connection timeout error","output":"TECH_TEAM"}
+{"input":"The export feature is not working","output":"TECH_TEAM"}
+{"input":"Search results are inaccurate","output":"TECH_TEAM"}
+{"input":"How do I generate an API key","output":"TECH_TEAM"}
+{"input":"The app performance is very slow","output":"TECH_TEAM"}
+{"input":"Notifications are delayed","output":"TECH_TEAM"}
+{"input":"I am getting an authentication error","output":"TECH_TEAM"}
+{"input":"The page keeps refreshing automatically","output":"TECH_TEAM"}
+{"input":"How to enable debug logs","output":"TECH_TEAM"}
+{"input":"The system is not saving my changes","output":"TECH_TEAM"}
+{"input":"File uploads fail intermittently","output":"TECH_TEAM"}
+{"input":"Server is returning invalid responses","output":"TECH_TEAM"}
+{"input":"The report generation takes too long","output":"TECH_TEAM"}
+{"input":"Mobile app crashes on startup","output":"TECH_TEAM"}
+{"input":"Integration with third party service fails","output":"TECH_TEAM"}
+{"input":"The analytics data is incorrect","output":"TECH_TEAM"}
+{"input":"How to configure environment variables","output":"TECH_TEAM"}
+{"input":"The login API returns unauthorized","output":"TECH_TEAM"}
+{"input":"UI elements are overlapping","output":"TECH_TEAM"}
+{"input":"The cache is not updating properly","output":"TECH_TEAM"}
+{"input":"Background jobs are failing","output":"TECH_TEAM"}
+{"input":"Real time updates are not working","output":"TECH_TEAM"}
+{"input":"The system throws a null pointer exception","output":"TECH_TEAM"}
+{"input":"Deployment failed in production","output":"TECH_TEAM"}
+{"input":"Logs are not getting generated","output":"TECH_TEAM"}
+{"input":"The build pipeline is broken","output":"TECH_TEAM"}
+{"input":"Data sync is not happening","output":"TECH_TEAM"}
+{"input":"API documentation is unclear","output":"TECH_TEAM"}
+{"input":"Pagination does not work correctly","output":"TECH_TEAM"}
+{"input":"Search indexing is delayed","output":"TECH_TEAM"}
+{"input":"Can I get a price breakdown for the enterprise license","output":"SALES_TEAM"}
+{"input":"Do you offer volume discounts for large teams","output":"SALES_TEAM"}
+{"input":"I want to compare your plans before buying","output":"SALES_TEAM"}
+{"input":"Is there a special plan for nonprofits","output":"SALES_TEAM"}
+{"input":"Can you share a sales brochure","output":"SALES_TEAM"}
+{"input":"I need pricing details for international customers","output":"SALES_TEAM"}
+{"input":"Who should I talk to for corporate sales","output":"SALES_TEAM"}
+{"input":"Do you have flexible payment options","output":"SALES_TEAM"}
+{"input":"Can I get a custom quote","output":"SALES_TEAM"}
+{"input":"What features come with the enterprise tier","output":"SALES_TEAM"}
+{"input":"Is onboarding included in the pricing","output":"SALES_TEAM"}
+{"input":"How much does it cost for additional users","output":"SALES_TEAM"}
+{"input":"Are there discounts for long term contracts","output":"SALES_TEAM"}
+{"input":"I want to purchase licenses in bulk","output":"SALES_TEAM"}
+{"input":"Do you provide reseller pricing","output":"SALES_TEAM"}
+{"input":"Can I upgrade my plan mid cycle","output":"SALES_TEAM"}
+{"input":"What payment methods do you accept","output":"SALES_TEAM"}
+{"input":"Is tax included in the listed prices","output":"SALES_TEAM"}
+{"input":"Do you offer pay as you go pricing","output":"SALES_TEAM"}
+{"input":"Help me decide which plan fits my needs","output":"SALES_TEAM"}
+{"input":"I cannot download my invoice","output":"SUPPORT_TEAM"}
+{"input":"My subscription did not renew automatically","output":"SUPPORT_TEAM"}
+{"input":"The app keeps logging me out","output":"SUPPORT_TEAM"}
+{"input":"I need help changing my billing address","output":"SUPPORT_TEAM"}
+{"input":"My account shows an unknown charge","output":"SUPPORT_TEAM"}
+{"input":"I accidentally deleted my account","output":"SUPPORT_TEAM"}
+{"input":"How do I recover my account","output":"SUPPORT_TEAM"}
+{"input":"My refund request is still pending","output":"SUPPORT_TEAM"}
+{"input":"I cannot access features after upgrading","output":"SUPPORT_TEAM"}
+{"input":"The payment confirmation never arrived","output":"SUPPORT_TEAM"}
+{"input":"I want to downgrade my subscription","output":"SUPPORT_TEAM"}
+{"input":"Why was my payment declined","output":"SUPPORT_TEAM"}
+{"input":"My profile information is not updating","output":"SUPPORT_TEAM"}
+{"input":"I am locked out due to too many login attempts","output":"SUPPORT_TEAM"}
+{"input":"The billing page is not loading","output":"SUPPORT_TEAM"}
+{"input":"How can I update my credit card","output":"SUPPORT_TEAM"}
+{"input":"My plan expired even though I paid","output":"SUPPORT_TEAM"}
+{"input":"I am unable to change my password","output":"SUPPORT_TEAM"}
+{"input":"The app shows incorrect account status","output":"SUPPORT_TEAM"}
+{"input":"How do I transfer ownership of my account","output":"SUPPORT_TEAM"}
+{"input":"The API returns a timeout error","output":"TECH_TEAM"}
+{"input":"I am seeing inconsistent data in reports","output":"TECH_TEAM"}
+{"input":"The mobile app freezes after login","output":"TECH_TEAM"}
+{"input":"How do I enable two factor authentication","output":"TECH_TEAM"}
+{"input":"Webhooks are sending duplicate events","output":"TECH_TEAM"}
+{"input":"The search feature is very slow","output":"TECH_TEAM"}
+{"input":"I am getting a forbidden error from the API","output":"TECH_TEAM"}
+{"input":"The UI breaks on smaller screens","output":"TECH_TEAM"}
+{"input":"How can I increase API rate limits","output":"TECH_TEAM"}
+{"input":"File downloads fail intermittently","output":"TECH_TEAM"}
+{"input":"The app crashes when opening settings","output":"TECH_TEAM"}
+{"input":"I see incorrect timestamps in logs","output":"TECH_TEAM"}
+{"input":"How do I rotate API keys","output":"TECH_TEAM"}
+{"input":"The system is not sending notifications","output":"TECH_TEAM"}
+{"input":"Background processing jobs are stuck","output":"TECH_TEAM"}
+{"input":"The deployment pipeline fails randomly","output":"TECH_TEAM"}
+{"input":"I am facing memory errors","output":"TECH_TEAM"}
+{"input":"Data is not syncing across devices","output":"TECH_TEAM"}
+{"input":"How do I configure SSO integration","output":"TECH_TEAM"}
+{"input":"The application throws an unexpected error","output":"TECH_TEAM"}
+{"input":"I want to discuss enterprise onboarding costs","output":"SALES_TEAM"}
+{"input":"Can you help me estimate pricing for 200 employees","output":"SALES_TEAM"}
+{"input":"Is there a minimum contract duration","output":"SALES_TEAM"}
+{"input":"Do you offer region specific pricing","output":"SALES_TEAM"}
+{"input":"Can I speak with someone about upgrading our company plan","output":"SALES_TEAM"}
+{"input":"What are the benefits of the enterprise subscription","output":"SALES_TEAM"}
+{"input":"Do you support multi year contracts","output":"SALES_TEAM"}
+{"input":"I need a formal quote for procurement","output":"SALES_TEAM"}
+{"input":"Are training sessions included in the plan","output":"SALES_TEAM"}
+{"input":"What is the cost for adding more storage","output":"SALES_TEAM"}
+{"input":"Is there a plan suitable for small teams","output":"SALES_TEAM"}
+{"input":"Do you have usage based pricing","output":"SALES_TEAM"}
+{"input":"Can I trial premium features before purchase","output":"SALES_TEAM"}
+{"input":"What is the licensing model for enterprises","output":"SALES_TEAM"}
+{"input":"Are setup fees charged separately","output":"SALES_TEAM"}
+{"input":"Can you provide a cost comparison sheet","output":"SALES_TEAM"}
+{"input":"Is support included in all plans","output":"SALES_TEAM"}
+{"input":"Do you offer discounts for renewals","output":"SALES_TEAM"}
+{"input":"I want pricing details for government clients","output":"SALES_TEAM"}
+{"input":"Can we negotiate pricing for long term usage","output":"SALES_TEAM"}
+{"input":"My account email verification link expired","output":"SUPPORT_TEAM"}
+{"input":"I cannot see my active subscription","output":"SUPPORT_TEAM"}
+{"input":"The system says my account does not exist","output":"SUPPORT_TEAM"}
+{"input":"I am unable to log in from a new device","output":"SUPPORT_TEAM"}
+{"input":"My billing currency is incorrect","output":"SUPPORT_TEAM"}
+{"input":"I was logged out and cannot sign back in","output":"SUPPORT_TEAM"}
+{"input":"How do I update my contact information","output":"SUPPORT_TEAM"}
+{"input":"The app shows an error when opening my profile","output":"SUPPORT_TEAM"}
+{"input":"My invoice shows the wrong company name","output":"SUPPORT_TEAM"}
+{"input":"I need help restoring my subscription","output":"SUPPORT_TEAM"}
+{"input":"The password reset email is delayed","output":"SUPPORT_TEAM"}
+{"input":"I cannot remove my old payment method","output":"SUPPORT_TEAM"}
+{"input":"My account was disabled without notice","output":"SUPPORT_TEAM"}
+{"input":"The receipt is missing from my account","output":"SUPPORT_TEAM"}
+{"input":"I am unable to access premium features","output":"SUPPORT_TEAM"}
+{"input":"The billing history page is empty","output":"SUPPORT_TEAM"}
+{"input":"I want to change my subscription owner","output":"SUPPORT_TEAM"}
+{"input":"My login session expires too quickly","output":"SUPPORT_TEAM"}
+{"input":"The app is asking me to subscribe again","output":"SUPPORT_TEAM"}
+{"input":"I need assistance recovering deleted data","output":"SUPPORT_TEAM"}
+{"input":"The API returns malformed responses","output":"TECH_TEAM"}
+{"input":"I am facing issues with OAuth authentication","output":"TECH_TEAM"}
+{"input":"The app UI freezes during navigation","output":"TECH_TEAM"}
+{"input":"How do I enable audit logs","output":"TECH_TEAM"}
+{"input":"Scheduled jobs are not executing","output":"TECH_TEAM"}
+{"input":"The system shows duplicate records","output":"TECH_TEAM"}
+{"input":"I am seeing unexpected latency spikes","output":"TECH_TEAM"}
+{"input":"The app fails to load after the latest update","output":"TECH_TEAM"}
+{"input":"How do I configure rate limiting","output":"TECH_TEAM"}
+{"input":"The export file format is incorrect","output":"TECH_TEAM"}
+{"input":"I get a bad request error from the API","output":"TECH_TEAM"}
+{"input":"The mobile app crashes when switching tabs","output":"TECH_TEAM"}
+{"input":"How can I monitor system health","output":"TECH_TEAM"}
+{"input":"The notification service is unreliable","output":"TECH_TEAM"}
+{"input":"I am seeing permission errors in logs","output":"TECH_TEAM"}
+{"input":"Data updates are not reflected in real time","output":"TECH_TEAM"}
+{"input":"The app does not support dark mode properly","output":"TECH_TEAM"}
+{"input":"How do I integrate single sign on","output":"TECH_TEAM"}
+{"input":"The backend service keeps restarting","output":"TECH_TEAM"}
+{"input":"I am getting unexpected null values","output":"TECH_TEAM"}
